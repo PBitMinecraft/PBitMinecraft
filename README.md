@@ -10,10 +10,8 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I skipped kindergarten
-
 <details>
-  <summary>‎ </summary>
+  <summary>‎⚡ Fun fact: I skipped kindergarten</summary>
   
   I wish I was lying <:[
 </details>
