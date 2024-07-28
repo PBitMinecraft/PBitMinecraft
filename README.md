@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**PBitMinecraft/PBitMinecraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [the **BIG** project.](https://www.youtube.com/watch?v=oV4_UNVyIZE)
+🤔 I’m looking for help with video editing.
+💬 Ask me about [anything](mailto:pbitmc@gmail.com)
+📫 How to reach me: pbitmc@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I skipped kindergarten
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Spoiler Alert!</summary>
+  
+  I wish I was lying <:[
+</details>
