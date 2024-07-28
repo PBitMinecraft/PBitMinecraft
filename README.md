@@ -13,7 +13,7 @@
 ⚡ Fun fact: I skipped kindergarten
 
 <details>
-  <summary>Spoiler Alert!</summary>
+  <summary>‎ </summary>
   
   I wish I was lying <:[
 </details>
